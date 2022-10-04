@@ -27,7 +27,7 @@ const aCourse = {
       instructor: "Sis A",
     },
     {
-      section: 2,
+      sectionNum: 2,
       roomNum: "STC353",
       enrolled: 25,
       instructor: "Bro T",
