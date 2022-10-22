@@ -7,9 +7,68 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>N-Dex Patrol Database</title>
     <link rel="stylesheet" href="patrol.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
 </head>
 
 <body>
+    <header>
+        <h1>N-Dex Patrol Database</h1>
+        <h2 id="header-h2">Rexburg Police Department</h2>
+    </header>
+
+    <main>
+        <section class="front-end-left">
+            <form>
+                <h3>Insert Full Name:</h3>
+                <input type="text" id="fullname" name="fullname">
+                <input type="submit" value="Submit">
+            </form>
+        </section>
+        <section class="front-end-right">
+            <h3 id="input-name">Person Name Here:</h3>
+            <hr>
+            <h4>SSN:</h4>
+            <h5 id="SSN"></h5>
+
+            <h4>License:</h4>
+            <h5 id="license"></h5>
+
+            <h4>DOB:</h4>
+            <h5 id="DOB"></h5>
+
+            <h4>Age:</h4>
+            <h5 id="age"></h5>
+
+            <h4>Gender:</h4>
+            <h5 id="gender"></h5>
+
+            <h4>Race:</h4>
+            <h5 id="race"></h5>
+
+            <h4>Hair:</h4>
+            <h5 id="hair"></h5>
+            
+            <h3>Criminal Background:</h3>
+            <hr>
+            <h4>Citations:</h4>
+            <h5 id="citations"></h5>
+
+            <h4>Incident Report:</h4>
+            <h5 id="incident"></h5>
+
+            <h4>Active Warrants:</h4>
+            <h5 id="warrants"></h5>
+        </section>
+    </main>
+
+    <footer>
+        <p id="footer-p">&copy; Copyright 2022 | N-Dex Patrol Database</p>
+    </footer>
 
     <script src="scripts/patrol.js"></script>
 </body>

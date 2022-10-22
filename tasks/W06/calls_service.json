@@ -1,0 +1,266 @@
+[
+  {
+    "case_number": "B17-04811",
+    "datetime": "2/9/2017 8:01",
+    "nature": "ABUSE IP",
+    "district": "LB513"
+  },
+  {
+    "case_number": "B17-06347",
+    "datetime": "2/20/2017 11:11",
+    "nature": "ABUSE IP",
+    "district": "LB212"
+  },
+  {
+    "case_number": "B16-00129",
+    "datetime": "1/2/2016 3:52",
+    "nature": "ALCOHOL RELATED",
+    "district": "LB212"
+  },
+  {
+    "case_number": "B21-07605",
+    "datetime": "3/12/2021 18:04",
+    "nature": "ALCOHOL RELATED",
+    "district": "LB309"
+  },
+  {
+    "case_number": "B16-00850",
+    "datetime": "1/7/2016 20:21",
+    "nature": "ASSAULT IP",
+    "district": "LB402"
+  },
+  {
+    "case_number": "B18-41196",
+    "datetime": "10/6/2018 17:54",
+    "nature": "ASSAULT IP",
+    "district": "LB521"
+  },
+  {
+    "case_number": "B18-41468",
+    "datetime": "10/8/2018 15:43",
+    "nature": "ASSAULT IP",
+    "district": "LB524"
+  },
+  {
+    "case_number": "B16-05449",
+    "datetime": "2/12/2016 12:04",
+    "nature": "BURGLARY IP",
+    "district": "LB102"
+  },
+  {
+    "case_number": "B18-26499",
+    "datetime": "7/3/2018 2:09",
+    "nature": "BURGLARY IP",
+    "district": "LB212"
+  },
+  {
+    "case_number": "B21-41981",
+    "datetime": "11/19/2021 20:26",
+    "nature": "BURGLARY IP",
+    "district": "LB316"
+  },
+  {
+    "case_number": "B16-29090",
+    "datetime": "7/28/2016 18:51",
+    "nature": "CHILD MOLEST IP",
+    "district": "LB518"
+  },
+  {
+    "case_number": "B21-17882",
+    "datetime": "5/31/2021 14:28",
+    "nature": "CHILD MOLEST IP",
+    "district": "LB402"
+  },
+  {
+    "case_number": "B16-33945",
+    "datetime": "8/27/2016 3:19",
+    "nature": "DISTURBANCE IP",
+    "district": "LB101"
+  },
+  {
+    "case_number": "B17-02690",
+    "datetime": "1/23/2017 9:56",
+    "nature": "DOMESTIC IP",
+    "district": "LB326"
+  },
+  {
+    "case_number": "B17-02698",
+    "datetime": "1/23/2017 12:38",
+    "nature": "DOMESTIC IP",
+    "district": "LB518"
+  },
+  {
+    "case_number": "B17-35437",
+    "datetime": "8/31/2017 16:06",
+    "nature": "DRUGS IP",
+    "district": "LB101"
+  },
+  {
+    "case_number": "B17-35471",
+    "datetime": "8/31/2017 19:59",
+    "nature": "DRUGS IP",
+    "district": "LB517"
+  },
+  {
+    "case_number": "B22-04354",
+    "datetime": "2/8/2022 18:04",
+    "nature": "DRUGS IP",
+    "district": "LB221"
+  },
+  {
+    "case_number": "B18-04477",
+    "datetime": "2/3/2018 3:22",
+    "nature": "DUI",
+    "district": "LB524"
+  },
+  {
+    "case_number": "B18-48821",
+    "datetime": "11/30/2018 1:00",
+    "nature": "DUI",
+    "district": "LB101"
+  },
+  {
+    "case_number": "B19-49257",
+    "datetime": "11/23/2019 19:24",
+    "nature": "DUI",
+    "district": "LB416"
+  },
+  {
+    "case_number": "B19-50793",
+    "datetime": "12/5/2019 19:06",
+    "nature": "DUI",
+    "district": "LB518"
+  },
+  {
+    "case_number": "B16-08398",
+    "datetime": "3/4/2016 23:26",
+    "nature": "FALSE ID",
+    "district": "LB101"
+  },
+  {
+    "case_number": "B16-47976",
+    "datetime": "12/1/2016 20:09",
+    "nature": "FRAUD",
+    "district": "LB315"
+  },
+  {
+    "case_number": "B16-47995",
+    "datetime": "12/1/2016 22:29",
+    "nature": "FRAUD",
+    "district": "LB330"
+  },
+  {
+    "case_number": "B16-49375",
+    "datetime": "12/12/2016 14:52",
+    "nature": "FRAUD",
+    "district": "LB518"
+  },
+  {
+    "case_number": "B16-15383",
+    "datetime": "4/23/2016 1:27",
+    "nature": "INTOXICATED",
+    "district": "LB104"
+  },
+  {
+    "case_number": "B16-15390",
+    "datetime": "4/23/2016 2:33",
+    "nature": "INTOXICATED",
+    "district": "LB513"
+  },
+  {
+    "case_number": "B19-53896",
+    "datetime": "12/29/2019 20:18",
+    "nature": "SEX ASSAULT IP",
+    "district": "LB424"
+  },
+  {
+    "case_number": "B21-43599",
+    "datetime": "12/4/2021 2:01",
+    "nature": "STALKING IP",
+    "district": "LB104"
+  },
+  {
+    "case_number": "B22-01637",
+    "datetime": "1/15/2022 22:21",
+    "nature": "STALKING IP",
+    "district": "LB404"
+  },
+  {
+    "case_number": "B21-16575",
+    "datetime": "5/21/2021 10:56",
+    "nature": "WEAPONS IP",
+    "district": "LB518"
+  },
+  {
+    "case_number": "B21-16659",
+    "datetime": "5/21/2021 20:30",
+    "nature": "WEAPONS IP",
+    "district": "LB212"
+  },
+  {
+    "case_number": "B21-16690",
+    "datetime": "5/22/2021 2:00",
+    "nature": "WEAPONS IP",
+    "district": "LB326"
+  },
+  {
+    "case_number": "B21-16807",
+    "datetime": "5/23/2021 0:32",
+    "nature": "WEAPONS IP",
+    "district": "LB518"
+  },
+  {
+    "case_number": "B18-47573",
+    "datetime": "11/19/2018 16:28",
+    "nature": "WARRANT SERVICE",
+    "district": "LB304"
+  },
+  {
+    "case_number": "B18-47630",
+    "datetime": "11/20/2018 2:26",
+    "nature": "WARRANT SERVICE",
+    "district": "LB327"
+  },
+  {
+    "case_number": "B18-47751",
+    "datetime": "11/21/2018 0:35",
+    "nature": "WARRANT SERVICE",
+    "district": "LB327"
+  },
+  {
+    "case_number": "B20-35164",
+    "datetime": "9/28/2020 11:11",
+    "nature": "WARRANT SERVICE",
+    "district": "LB513"
+  },
+  {
+    "case_number": "B20-35291",
+    "datetime": "9/29/2020 17:54",
+    "nature": "WARRANT SERVICE",
+    "district": "LB221"
+  },
+  {
+    "case_number": "B20-35377",
+    "datetime": "9/30/2020 13:32",
+    "nature": "WARRANT SERVICE",
+    "district": "LB101"
+  },
+  {
+    "case_number": "B21-28890",
+    "datetime": "8/19/2021 0:02",
+    "nature": "WARRANT SERVICE",
+    "district": "LB412"
+  },
+  {
+    "case_number": "B21-29182",
+    "datetime": "8/20/2021 17:34",
+    "nature": "WARRANT SERVICE",
+    "district": "LB3"
+  },
+  {
+    "case_number": "B21-29584",
+    "datetime": "8/23/2021 15:21",
+    "nature": "WARRANT SERVICE",
+    "district": "LB104"
+  }
+]
