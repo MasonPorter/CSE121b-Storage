@@ -4,6 +4,7 @@ async function getResident(resident_data) {
     if (response.ok) {
         const data = await response.json();
         printResident(data);
+        actionResident(data);
     }
 }
 getResident(resident_data);
@@ -20,9 +21,20 @@ function printResident(results) {
 const buttonElement = document.getElementById("submit");
 
 function copyInput() {
-    const inputElement = document.getElementById('fullname');
-    const outputElement = document.getElementById('name');
-    outputElement.innerHTML = inputElement.value;
+  const inputElement = document.getElementById("fullname");
+  const outputElement = document.getElementById("name");
+  outputElement.innerHTML = inputElement.value;
 }
 
 buttonElement.addEventListener("click", copyInput);
+buttonElement.addEventListener("click", actionResident);
+
+function actionResident(data) {
+  userSelection = document.getElementById("fullname").value;
+
+  if (userSelection == data[0].name) {
+    document.getElementById("test").textContent = "test";
+  } else {
+    document.getElementById("test").textContent = "test fail";
+  }
+}
