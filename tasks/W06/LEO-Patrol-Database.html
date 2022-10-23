@@ -23,16 +23,15 @@
 
     <main>
         <section class="front-end-left">
-            <form>
                 <h3>Insert Full Name:</h3>
-                <input type="text" id="fullname" name="fullname">
-                <input type="submit" value="Submit">
-            </form>
+                <input type="text" id="fullname" onfocus="this.value=''" name="fullname">
+                <button id="submit">Submit</button>
 
             <h3 id="possible-entries">Possible Entries:</h3>
+            <h5 id="entry-output"></h5>
         </section>
         <section class="front-end-right">
-            <h3 id="name">Person Name</h3>
+            <h3 id="name">[Full Name]</h3>
         
             <h4>SSN:</h4>
             <h5 id="SSN"></h5>
